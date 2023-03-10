@@ -17,3 +17,7 @@ This repo will be continually updated as I complete more courses, and is public 
 be useful to other ANDis who are looking to upskill, and to AND to determine if there is value in continuing to purchase Udemy licenses.
 
 At the point of writing this, I am a level 2.1 Associate Developer and i'm familiarising myself with best coding practices and design patterns.
+
+# Usage
+
+To run any of these projects please run `npm i` in the root directory of the project and in each of the sub-directories.
