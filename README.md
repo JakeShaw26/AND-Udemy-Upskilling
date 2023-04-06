@@ -5,7 +5,7 @@ A collection of projects completed through Udemy courses available through AND's
 The motivation behind this repo is to complete course available through AND's Udemy licenses. The goal is to complete the courses and upload the projects to this repo. Each course will the have a README file, containing the following:
 
 - Course Name / Author
-- Date completed
+- Time Taken To Complete
 - Tech upskilled
 - Why I chose this course
 - What I learned
